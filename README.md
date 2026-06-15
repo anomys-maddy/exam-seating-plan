@@ -1,6 +1,5 @@
 # exam-seating-plan
 
-# testing for git connectivity
 
 A Python-based automation tool for generating randomized school exam seating plans using MySQL database integration and custom shuffling logic.
 
