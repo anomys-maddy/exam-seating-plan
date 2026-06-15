@@ -13,6 +13,6 @@ Customizable Layouts: Allows users to define the number of rooms, desks per room
 Automated Reporting: Generates a formatted seating_plan.txt file ready for printing.
 
 
-"Developed as a Class 12 Computer Science project under the guidance of Mr. Satyendra Sharma (JNV Dadri). This application demonstrates the practical application of Python's mysql-connector and file handling capabilities to solve real-world administrative challenges in schools."
+"Developed as a Class 12 Computer Science project  . This application demonstrates the practical application of Python's mysql-connector and file handling capabilities to solve real-world administrative challenges in schools."
 
 
