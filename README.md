@@ -1,4 +1,7 @@
 # exam-seating-plan
+
+# testing for git connectivity
+
 A Python-based automation tool for generating randomized school exam seating plans using MySQL database integration and custom shuffling logic.
 
 Project Overview
@@ -12,3 +15,5 @@ Automated Reporting: Generates a formatted seating_plan.txt file ready for print
 
 
 "Developed as a Class 12 Computer Science project under the guidance of Mr. Satyendra Sharma (JNV Dadri). This application demonstrates the practical application of Python's mysql-connector and file handling capabilities to solve real-world administrative challenges in schools."
+
+
